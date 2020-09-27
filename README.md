@@ -15,6 +15,8 @@
 |pge_CI|sparse component 95% credible interval|
 |en_r2|predictive performance (10-fold cross-validation R<sup>2</sup>) of elastic net (alpha=0.5)
 
+** You will typically want the TW estimates for tissues. TS was an attempt to get the tissue specific component of h2.
+
  * Dependencies: 
 	 * [sqlite3](https://www.sqlite.org/ )
 	 * [R](https://www.r-project.org/) *
