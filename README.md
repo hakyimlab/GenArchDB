@@ -15,7 +15,7 @@
 |pge_CI|sparse component 95% credible interval|
 |en_r2|predictive performance (10-fold cross-validation R<sup>2</sup>) of elastic net (alpha=0.5)
 
-** The local copy of the sqlite database `genarch.db` is in the root folder of the [repo](https://github.com/hakyimlab/GenArchDB/blob/master/genarch.db)
+** The local copy of the sqlite database `genarch.db` is in the root folder of this [repo](https://github.com/hakyimlab/GenArchDB/blob/master/genarch.db)
 
 ** You will typically want the TW estimates for tissues. TS was an attempt to get the tissue specific component of h2.
 
